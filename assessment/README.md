@@ -1,4 +1,4 @@
-You can view a live demo over at https://react-redux.realworld.io/ https://customerdetails-a2f83.firebaseapp.com  <br />
+You can view a live demo over at https://customerdetails-a2f83.firebaseapp.com  <br />
 
 Technology Stack used - ReactJs & Firebase database for data store <br />
 Hosting done using firebase<br /> 
