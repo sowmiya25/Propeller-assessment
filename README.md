@@ -1,5 +1,5 @@
-# Propeller-assessment
-You can view a live demo over at https://customerdetails-a2f83.firebaseapp.com </br>
+# React-Application   
+Demo https://customerdetails-a2f83.firebaseapp.com </br>
 
 Technology Stack used - ReactJs,Responsive Web Design,Bootstrap & Firebase database for data store.  </br>
 Hosting done using firebase</br>
